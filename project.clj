@@ -1,6 +1,6 @@
 (defproject viz-cljc "0.1.3"
   :description "Clojure and Clojurescript support for Viz.js"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/jebberjeb/viz.cljc"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
